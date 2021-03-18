@@ -11,3 +11,4 @@ x = input("write something")
 
 x = int(x)
 print(x + 2)
+
